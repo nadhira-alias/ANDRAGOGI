@@ -1,2 +1,2 @@
 # ANDRAGOGI
-Projek web pribadi yang berfokus pada bidang pendidikan. Web ini merupakan platform berbagi metode belajar berbagai disiplin ilmu secara otodidak.
+Projek web pribadi yang berfokus pada bidang pendidikan. Web ini merupakan platform berbagi metode belajar berbagai disiplin ilmu secara otodidak. Web ,asih berada dalam tahap pengembangan
